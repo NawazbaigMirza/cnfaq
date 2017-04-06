@@ -64,4 +64,6 @@ Ans.    Routers can connect two or more network segments. These are intelligent 
     Protocol is a standard used to define a method of exchanging data over a computer network.
     For example : TCP, IP, UDP, POP, SMTP, HTTP, and FTP 
 
-15.
+15.What is Client/Server?
+Clients and Servers are separate logical entities that work together over a network to accomplish a task.
+Many systems with very different architectures that are connected together are also called Client/Server.
