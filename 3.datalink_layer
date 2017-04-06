@@ -9,12 +9,21 @@ Data Link Layer is second layer of OSI Layered Model. Data link layer is respons
 5.flow control 
 6.multi-access
 
-Tyes of errors
+2.Tyes of errors
 single bit error:In a frame, there is only one bit, anywhere though, which is corrupt.
 Multiple bits error:Frame is received with more than one bits in corrupted state.
 Burst error:Frame contains more than1 consecutive bits corrupted.
 
-What are the error control mechanism?
+3.What are the error control mechanism?
 1.error detection
 2.error correction
 
+4.The data link layer takes the packets from _____ and encapsulates them into frames for transmission.
+  network layer
+ 
+5. When 2 or more bits in a data unit has been changed during the transmission, the error is called
+    burst error
+    
+6.Which one of the following is the multiple access protocol for channel access control?
+  a) CSMA/CD
+  b) CSMA/CA
