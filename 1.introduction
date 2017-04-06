@@ -67,3 +67,8 @@ Ans.    Routers can connect two or more network segments. These are intelligent 
 15.What is Client/Server?
 Clients and Servers are separate logical entities that work together over a network to accomplish a task.
 Many systems with very different architectures that are connected together are also called Client/Server.
+
+16.What is MAC address?
+
+It is the 48 bit hardware address of LAN card.
+MAC address is usually stored in ROM on the network adapter card and it is unique.
