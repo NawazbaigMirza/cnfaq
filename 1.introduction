@@ -108,3 +108,10 @@ Ans. Local Area Network
 18. Expand the acronym WAN.
 Ans. Wide Area Network
 
+19.How many digits of the DNIC (Data Network Identification Code) identify the country?
+ans.first three
+
+20.The probability that a single bit will be in error on a typical public telephone line using 4800 bps modem is 10 to the power -3.
+If no error detection mechanism is used, the residual error rate for a communication line using 9-bit
+frames is approximately equal to
+ANS:0.009
